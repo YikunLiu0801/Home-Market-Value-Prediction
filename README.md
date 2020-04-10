@@ -1,4 +1,4 @@
-# Machine Learning Home Market Value Prediction
+# [Regression] Home Market Value Prediction
 
 Construct a market value prediction model to predict a home's current market value and score a test data set with this model.
 
